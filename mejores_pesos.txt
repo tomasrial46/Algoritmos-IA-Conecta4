@@ -1,0 +1,5 @@
+Mejores pesos encontrados:
+Ponderación Fichas en Fila: 4
+Ponderación Bloqueos: 4
+Ponderación Ocupación Centro: 1
+Ponderación Ocupación Altura: 2
